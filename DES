@@ -75,6 +75,6 @@ class FileEncryptionApp:
     def run(self):
         self.root.mainloop()
 
-# Crear y ejecutar la aplicación
+
 app = FileEncryptionApp()
 app.run()
